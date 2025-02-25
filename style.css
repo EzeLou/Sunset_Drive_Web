@@ -6,6 +6,10 @@
 
 }
 
+html {
+  scroll-padding-top: 6rem;
+}
+
 body {
   background-color: #000000;
 }
