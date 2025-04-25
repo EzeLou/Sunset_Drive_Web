@@ -11,7 +11,7 @@
 }
 
 html {
-  padding-top: 16rem;
+  padding-top: 8rem;
 
 }
 
@@ -87,6 +87,12 @@ a{
   --bs-btn-disabled-border-color: #d53b31;
 }
 
+
+.logo{
+  width: 50%;
+  height: auto;
+
+}
 
 /*
 @media only screen and (max-width: 1100px) {
