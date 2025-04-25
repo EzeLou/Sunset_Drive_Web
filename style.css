@@ -1,23 +1,28 @@
-
 * {
   margin: 0;
   padding: 0;
   background-color: #000000;
-color: #ffffff;
+  color: #ffffff;
   font-family: "futura-pt", sans-serif;
-font-weight: 500;
-font-style: normal;
+  font-weight: 500;
+  font-style: normal;
 
 }
 
 html {
   scroll-padding-top: 6rem;
+  padding-top: 16rem;
 }
 
 body {
   background-color: #000000;
 }
 
+h1 {
+  font-family: "futura-pt", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
 
 #img {
   background-color: #000000;
@@ -36,24 +41,24 @@ body {
   font-family: 'Futura', sans-serif;
 }
 
-.sunset_btn{
+.sunset_btn {
   background-color: #e28029;
   border: none;
   color: #ffffff;
   font-family: "futura-pt", sans-serif;
-font-weight: 700;
-font-style: normal;
+  font-weight: 700;
+  font-style: normal;
 }
 
 
-.sunset_btn:active{
-  background-color: #d53b31; 
+.sunset_btn:active {
+  background-color: #d53b31;
   color: #d53b31;
   border: none;
 }
 
 .sunset_btn:hover {
-  background-color: #e28029; 
+  background-color: #e28029;
   color: #ffffff;
   border: none;
   box-shadow: 0 0.4rem 0.6rem 0 rgba(255, 255, 255, 0.24), 0 0.4rem 0.80rem 0 rgba(255, 255, 255, 0.19);
